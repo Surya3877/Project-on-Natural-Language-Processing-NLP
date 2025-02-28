@@ -3,9 +3,13 @@ This repository contains a dataset related to restaurant reviews. It includes cu
 
 # 🍽️ Dataset Details
 
-Filename: Restaurant_Reviews.tsv
-Total Records: 1000
-Columns:
-Review → Customer review in text format
-Liked → Sentiment label (1 = Positive, 0 = Negative)
+**Filename: Restaurant_Reviews.tsv**
+
+**Total Records: 1000**
+
+**Columns:**
+**Review** → Customer review in text format
+
+**Liked** → Sentiment label (1 = Positive, 0 = Negative)
+
 This dataset is useful for exploring text classification techniques, sentiment analysis, and building machine learning models for opinion mining.
